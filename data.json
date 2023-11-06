@@ -3,5 +3,12 @@
     "question": "Tolong bacakan muqaddimah!",
     "options": ["Iya", "Tidak"],
     "answer": "Iya"
+  },
+  {
+    "question": "Rasulullah bersabda, \"Tidak halal darah seorang muslim yang bersaksi bahwa tiada Tuhan selain Allah dan bahwa aku adalah Utusan Allah, kecuali salah satu dari tiga orang: janda yang berzina, pembunuh orang dan orang yang meninggalkan agamanya berpisah dari jama'ah.\" Muttafaq Alaihi.",
+    "options": ["Abdullah bin Mas'ud", "Ibnu Umar"],
+    "answer": "Abdullah bin Mas'ud"
   }
 ]
+
+
